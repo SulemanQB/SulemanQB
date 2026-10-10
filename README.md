@@ -6,7 +6,7 @@
 
 ## ⚙️ Tech Stack
 
-🐍 Python • 🔥 PyTorch • 👁️ OpenCV • 🖼️ torchvision • 📐 scikit-learn • ⚡ FastAPI • 🌶️ Flask • 🐳 Docker • 🌿 Git • 🐧 Linux • ☁️ AWS • 🗃️ SQL • 🐼 pandas
+🐍 Python • 🔥 PyTorch • 👁️ OpenCV • 🖼️ torchvision • 📐 scikit-learn • ⚡ FastAPI • 🌶️ Flask • 🐳 Docker • 🌿 Git • 🐧 Linux • ☁️ AWS • 🗃️ SQL • 🐼 pandas • 🦆 DuckDB • 🌲 LightGBM
 
 TensorFlow/Keras is a secondary stack.
 
@@ -57,6 +57,10 @@ TensorFlow/Keras is a secondary stack.
 - 📓 **FedMeta_MNIST**
   https://github.com/SulemanQB/FedMeta_MNIST
   **FedAvg** notebook. **98.72%** is old Colab output, not a new run.
+
+- 📊 **demand-forecasting-sql**
+  https://github.com/SulemanQB/demand-forecasting-sql
+  Retail demand forecasting with DuckDB SQL features, LightGBM (Tweedie) and rolling-origin backtesting; about 10% lower 28-day order-quantity error than a moving-average baseline.
 
 ---
 
